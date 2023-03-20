@@ -2,6 +2,9 @@
 
 This is a demo Express app for building and deploying an app using AWS CodePipeline.
 
+
+Follow below steps if you want to configure only codebuild project.
+
 1. Download the source code on your local machine.
 2. Zip the artifact to create ibt-codebuild.zip
 3. Create S3 bucket for uploading the input files for build artifact.
